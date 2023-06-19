@@ -12,8 +12,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$  pkg  نصب  g
-ایترا
+$  pkgایترا
 https://github.com/Alijan10/Ali10.py.gitرا
   پی . ع
   للییافگcdag .
